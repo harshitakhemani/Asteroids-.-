@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e05b811bc5d689046b62210a38cf5e06
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rockprefab: {fileID: 7912491713505090610, guid: 04758cddf407735479dcf7b7a24ea445,
+      type: 3}
+  - rock1: {fileID: 21300000, guid: 90820b83dcd162a4cb6c8cdd6c8beb3c, type: 3}
+  - rock2: {fileID: 21300000, guid: 321057a7a46a76f4486f510d0f119722, type: 3}
+  - rock3: {fileID: 21300000, guid: d1af8ccf38d66314b9c4577b06f67773, type: 3}
+  - rock4: {fileID: 21300000, guid: c63b03ce4e066a74b8b8a8e71b75830b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
